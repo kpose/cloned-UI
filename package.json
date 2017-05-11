@@ -1,0 +1,22 @@
+{
+  "name": "cloedui",
+  "version": "1.0.0",
+  "description": "An Andela home study task to make the clone of a website, fronted only(html and css).",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kpose/cloned-UI.git"
+  },
+  "keywords": [
+    "cloned"
+  ],
+  "author": "richard jude",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kpose/cloned-UI/issues"
+  },
+  "homepage": "https://github.com/kpose/cloned-UI#readme"
+}
